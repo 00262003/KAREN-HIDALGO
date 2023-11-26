@@ -1,0 +1,2 @@
+C:\Users\lcast\source\repos\NOMINAaurora\capaNEGOCIO\obj\Debug\capaNEGOCIO.csproj.AssemblyReference.cache
+C:\Users\lcast\source\repos\NOMINAaurora\capaNEGOCIO\obj\Debug\capaNEGOCIO.csproj.CoreCompileInputs.cache

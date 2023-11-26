@@ -1,0 +1,2 @@
+C:\Users\lcast\source\repos\NOMINAaurora\capaDATOS\obj\Debug\capaDATOS.csproj.AssemblyReference.cache
+C:\Users\lcast\source\repos\NOMINAaurora\capaDATOS\obj\Debug\capaDATOS.csproj.CoreCompileInputs.cache

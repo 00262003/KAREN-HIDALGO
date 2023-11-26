@@ -1,0 +1,6 @@
+C:\Users\lcast\source\repos\NOMINAaurora\capaENTIDAD\bin\Debug\capaENTIDAD.dll
+C:\Users\lcast\source\repos\NOMINAaurora\capaENTIDAD\bin\Debug\capaENTIDAD.pdb
+C:\Users\lcast\source\repos\NOMINAaurora\capaENTIDAD\obj\Debug\capaENTIDAD.csproj.AssemblyReference.cache
+C:\Users\lcast\source\repos\NOMINAaurora\capaENTIDAD\obj\Debug\capaENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\lcast\source\repos\NOMINAaurora\capaENTIDAD\obj\Debug\capaENTIDAD.dll
+C:\Users\lcast\source\repos\NOMINAaurora\capaENTIDAD\obj\Debug\capaENTIDAD.pdb

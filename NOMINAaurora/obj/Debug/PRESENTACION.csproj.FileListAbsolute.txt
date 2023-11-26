@@ -1,0 +1,14 @@
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\bin\Debug\NOMINAaurora.exe.config
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\bin\Debug\NOMINAaurora.exe
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\bin\Debug\NOMINAaurora.pdb
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\PRESENTACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\NOMINAaurora.Properties.Resources.resources
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\NOMINAaurora.exe
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\NOMINAaurora.pdb
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\NOMINAaurora.INICIO.resources
+C:\Users\lcast\source\repos\NOMINAaurora\NOMINAaurora\obj\Debug\NOMINAaurora.LOGIN.resources
